@@ -1,7 +1,8 @@
+# Custom ignories
+
 data/raw/*.csv
 
 data/raw/Archive.zip
-
 
 **.DS_Store
 
